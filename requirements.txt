@@ -1,0 +1,4 @@
+pyscreenshot
+pynput
+pillow
+img2pdf
