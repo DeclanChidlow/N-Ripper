@@ -1,5 +1,5 @@
 <h1 align="center">
-  Template Repo
+  N-Ripper
   
   [![Stars](https://img.shields.io/github/stars/DeclanChidlow/N-Ripper?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/N-Ripper/stargazers)
   [![Forks](https://img.shields.io/github/forks/DeclanChidlow/N-Ripper?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/N-Ripper/network/members)
