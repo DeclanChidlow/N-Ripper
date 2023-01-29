@@ -28,7 +28,7 @@ shutil.rmtree("output");
 os.makedirs("output");
 
 #Screenshot and save
-while (pages >= 0):
+while (pages >= 1):
     print("Downloading page", pages);
     time.sleep(5);
     image = pyscreenshot.grab(bbox=(x1, x2, y1, y2));
